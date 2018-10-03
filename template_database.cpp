@@ -50,7 +50,7 @@ void details(T1 rno, T2 sub, T2 marks, T3 grade){
 void match(){
 
     // matches the last digit of the roll number with subject code makes the data and gives the data long with complete rollnumber
-
+    // also returns the distinct count of students and roll numbers
 
 
 
